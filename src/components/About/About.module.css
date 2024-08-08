@@ -78,9 +78,9 @@
     flex-direction: column;
   }
 
-  .aboutImage {
+  /* .aboutImage {
     display: none;
-  }
+  } */
 
   .aboutItems {
     margin-top: 29px;
@@ -89,5 +89,11 @@
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .aboutImage {
+    border-radius: 0;
   }
 }
