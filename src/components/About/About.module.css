@@ -17,6 +17,8 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 50px;
 }
 
 .content {
@@ -94,6 +96,7 @@
 
 @media screen and (max-width: 830px) {
   .aboutImage {
-    border-radius: 0;
+    border-radius: 20px;
+    width:80%;
   }
 }

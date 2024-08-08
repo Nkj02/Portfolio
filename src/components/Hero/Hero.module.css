@@ -114,4 +114,8 @@
   .content {
     align-items: center;
   }
+  .heroImg{
+    width:80%;
+    border-radius: 20px;
+  }
 }
