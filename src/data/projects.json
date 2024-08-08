@@ -1,0 +1,26 @@
+[
+  {
+    "title": "HealingHeights",
+    "imageSrc": "projects/HealingHeights.png",
+    "description": "This project provides one stop solution to most of the healthcare problems.",
+    "skills": [ "JavaScript", "Node", "MongoDB"],
+    "demo": "https://github.com/Nkj02/HealingHeights",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "MyBlog",
+    "imageSrc": "projects/MyBlog.png",
+    "description": "This is a blog website build using React with admin dashboard.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://github.com/Nkj02/MyBlog/tree/main",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/Weather.png",
+    "description": "This is a weather project using HTML, EJS and Javascript.",
+    "skills": ["React", "Express", "Node", "EJS"],
+    "demo": "https://github.com/Nkj02/Weather-App",
+    "source": "https://www.github.com"
+  }
+]

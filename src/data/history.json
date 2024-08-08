@@ -1,0 +1,19 @@
+[
+  {
+    "role": "TA",
+    "organisation": "Coding Ninjas",
+    "startDate": "March, 2023",
+    "endDate": "June, 2023",
+    "experiences": ["Mentored 200+ students","Resolved doubts related to DSA"],
+    "imageSrc": "history/codingninjas.jpeg"
+  },
+  {
+    "role": "Data Science Intern",
+    "organisation": "EiSystems",
+    "startDate": "May, 2024",
+    "endDate": "June, 2024",
+    "experiences": ["Worked on different ML models", "Prepared a project on Iris dataset"],
+    "imageSrc": "history/EiSystems.jpeg"
+  }
+
+]
