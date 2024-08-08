@@ -41,7 +41,7 @@ export const Hero = () => {
       </div>
       
       <img
-        src= '/photo.jpg'
+        src= '/photo.png'
         alt="Hero image of me"
         className={styles.heroImg}
       />
